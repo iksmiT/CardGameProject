@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="CARD GAME PROJECT de mort"
+        android:text="CARD GAME PROJECT"
         android:textAlignment="center"
         android:textColor="#efc355"
         android:layout_alignParentTop="true"
