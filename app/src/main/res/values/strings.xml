@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Card Game Project</string>
+    <string name="play_activity">Play_activity</string>
+    <string name="title_activity_play_game">PlayGame</string>
 </resources>

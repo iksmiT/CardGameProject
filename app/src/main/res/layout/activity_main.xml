@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="CARD GAME PROJECT de mort"
+        android:text="CARD GAME PROJECT"
         android:textAlignment="center"
         android:textColor="#efc355"
         android:layout_alignParentTop="true"
@@ -36,9 +36,12 @@
         android:id="@+id/play"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="YOLO"
+        android:text="PLAY"
+        android:onClick="PlayGame"
         android:layout_marginEnd="47dp"
         android:layout_alignParentBottom="true"
         android:layout_toStartOf="@+id/settings"
         android:layout_marginBottom="40dp" />
 </RelativeLayout>
+
+
