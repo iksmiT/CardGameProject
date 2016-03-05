@@ -30,7 +30,8 @@
         android:text="SETTINGS"
         android:layout_marginEnd="65dp"
         android:layout_alignTop="@+id/play"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:onClick="settingsButton"/>
 
     <Button
         android:id="@+id/play"
